@@ -1,0 +1,36 @@
+*{
+  margin: 2px;
+  /* padding: 10px; */
+}
+.container{
+  display: flex;
+  align-items:center ;
+  justify-content: space-between;
+  background-color: black;
+  color: white;
+  align-content: center
+  ;
+}
+.menus{
+  display: flex;
+  align-content: center;
+  align-items: center;
+  padding-right: 40px;
+  list-style: none;
+  cursor: pointer;
+  
+}
+.oo{
+width: 150px;
+padding-left: 10px;
+}
+.ww{
+
+padding:10px;
+margin: 10px;
+}
+.ww:hover{
+
+color: rgb(192, 14, 14);
+
+}
