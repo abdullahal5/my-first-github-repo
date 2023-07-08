@@ -1,88 +1,29 @@
-*{
-  margin: 2px;
-  /* padding: 10px; */
-}
 .container{
-  display: flex;
-  align-items:center ;
-  justify-content: space-between;
-  background-color: rgb(0, 0, 0);
-  color: rgb(240, 240, 240);
-  align-content: center;
-
-  
-}
-.menus{
-  display: flex;
-  align-content: center;
-  align-items: center;
-  padding-right: 40px;
-  list-style: none;
-  cursor: pointer;
-  
-}
-.oo{
-width: 150px;
-padding-left: 10px;
-color: white;
-}
-.ww{
-
-padding:10px;
-margin: 10px;
-}
-.ww:hover{
-
-color: rgb(192, 14, 14);
-
-}
-.mm{
-  width: 250px;
-  /* height: 500px; */
-}
-.gg{
+  background-color: black;
   display: flex;
   justify-content: space-between;
-  height: 100vh;
   align-items: center;
   align-content: center;
-}
-.text{
-  color: rgb(232, 232, 232);
-}
-.btn{
-  /* border-radius: 10px; */
-  background-color: red;
-  padding: 10px 20px;
-  cursor:pointer;
-  color: rgb(255, 255, 255);
-  border: none;
-}
-.photo{
-  padding-right: 20px;
-}
-.title{
-  font-size: 45px;
-  font-weight: bold;
   
 }
-.btn:hover{
-  color: bisque;
+.ph{
+  width: 200px ;
 }
-.container1{
-  background-color: rgb(255, 253, 253);
-}
-.xx{
-
-color: black;
-
-}
-.mm1{
-height: 50vh;
-}
-
-.tt{
-  font-size: 70px;
-  text-align: center;
-}
+.item{
+  color: white;
   
+  margin-right: 20px;
+  padding: 20px;
+ cursor:pointer
+}
+*{
+  margin: 0px;
+  padding:0px;
+}
+.qq{
+  margin: 20px;
+}
+
+.item:hover{
+  color: rgb(55, 5, 171);
+}
